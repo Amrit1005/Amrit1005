@@ -16,7 +16,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/amritanshukumar05" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+</a>
   <a href="https://instagram.com/amritanshu.1005" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
@@ -49,9 +49,9 @@
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 5px;"/> </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" style="margin: 5px;"/> </a>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" style="margin: 5px;"/> </a>
-  <a href="https://excel.office.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Excel_Logo.png" alt="Excel" width="40" height="40" style="margin: 5px;"/> 
-  </a>
+  <a href="https://excel.office.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Excel_Logo.png" alt="Excel" width="40" height="40" style="margin: 5px;"/>
+</a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
