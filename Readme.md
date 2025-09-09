@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Harshit-Bhatnagar/Harshit-Bhatnagar/assets/151006837/7ccf4868-a830-4de5-a638-dcd9e294aec8)
 
 <h1 align="center">Hi 👋, I'm Amritanshu Kumar</h1>
-<h3 align="center">| C / C++ / Python | 2x ServiceNow certified (CSA & CAD)|  Data Science Enthusiast | Full Stack Developer </h3>
+<h3 align="center">C / C++ / Python | 2x ServiceNow certified (CSA & CAD)|  Data Science Enthusiast | Full Stack Developer </h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-- I’m currently learning Data Structures, Algorithms, and Data Science
+- I’m currently learning Data Structures, Algorithms, and Data Science 
 - How to reach me: [amritanshu.1005@gmail.com](mailto:amritanshu.1005@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
