@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Harshit-Bhatnagar/Harshit-Bhatnagar/assets/151006837/7ccf4868-a830-4de5-a638-dcd9e294aec8)
 
 <h1 align="center">Hi 👋, I'm Amritanshu Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer & Aspiring Data Scientist from India</h3>
+<h3 align="center">A passionate Software Developer & Aspiring Data Scientist from India </h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -50,7 +50,7 @@
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" style="margin: 5px;"/> </a>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" style="margin: 5px;"/> </a>
   <a href="https://excel.office.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Excel_Logo.png" alt="Excel" width="40" height="40" style="margin: 5px;"/>
+    <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="40" height="40" style="margin: 5px;"/>
 </a>
 </p>
 
