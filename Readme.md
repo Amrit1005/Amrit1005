@@ -1,21 +1,22 @@
 ![MasterHead](https://github.com/Harshit-Bhatnagar/Harshit-Bhatnagar/assets/151006837/7ccf4868-a830-4de5-a638-dcd9e294aec8)
 
 <h1 align="center">Hi 👋, I'm Amritanshu Kumar</h1>
-<h3 align="center">C / C++ / Python | 2x ServiceNow Certified (CSA & CAD) | Data Science & ML Enthusiast | Full Stack Developer | Creative Designer</h3>
+<h3 align="center"> Python / C++ | Data Science & ML Enthusiast | Full Stack Developer |2x ServiceNow Certified (CSA & CAD) | Data Science & ML Enthusiast | Full Stack Developer | Creative Designer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Amrit1005&label=Profile%20views&color=0e75b6&style=flat" alt="Amrit1005" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amrit1005&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Amrit1005" alt="Amrit1005" />
+  </a> 
 </p>
-
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 B.Tech in Computer Science & Engineering (Jaipur Engineering College And Research Centre) — GPA: **8.87**
-- 💻 Strong proficiency in **DSA, Python, C++**
+- 🎓 B.Tech in Computer Science & Engineering (Jaipur Engineering College And Research Centre) 
+- 💻 Strong proficiency in **DSA, Python, C++ ,  Machine Learning , SQL**
 - 🔧 Experienced in **Data Science, Machine Learning, and ServiceNow tech stack**
 - 🎨 Diploma in Fine Arts (Painting) — *First Division*
 - 📫 Reach me at: [amritanshu.1005@gmail.com](mailto:amritanshu.1005@gmail.com)
@@ -59,38 +60,19 @@
   <a href="https://excel.office.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="40" height="40" style="margin: 10px;"/> </a>
 </p>
 
----
-
-### 📂 Projects
-- **Contact Management System**  
-  🔹 Built with Python, Tkinter, and SQLite3 for GUI-based contact storage.  
-
-- **Fertilizer Optimization System**  
-  🔹 Data Science project using Python, TensorFlow, Flask, and Scikit-learn.  
-  🔹 Integrated ML model for NPK fertilizer optimization.  
-  🔹 Features **BHOOGAMINI chatbot** (Gemini-based) and **Kisan Mitra** farmer info section.  
-
----
-
-### 💼 Internship & Training
-- **ServiceNow** — 2× Certified (CSA & CAD)  
-- **JECRC Incubation Centre** — Graphic Designer (Apprenticeship, Nov 2022 – Dec 2023)  
-- **Instructor-led Training** — Jan 2025 – June 2025  
-
----
+--- 
 
 ### 🤝 Volunteer Experience
 - **Management Team – G20 DIA (May 2023)**  
   Supported Government of India initiative alongside G20 summit to empower startups.  
 - **Hospitality & Management – Startup Conclave (Dec 2022)**  
-  Assisted in organizing event connecting startups and angel investors.  
-
+  Assisted in organizing event connecting startups and angel investors.
+  
 ---
 
-### 🏆 Achievements
+### 🏆 Certifications 
 - ✅ ServiceNow CSA Certification (June 2025)  
 - ✅ ServiceNow CAD Certification (June 2025)  
-- ✅ Selected twice for **Startup India Hackathon** (2023, 2024)  
 
 ---
 
@@ -101,7 +83,6 @@
 
 ### Github Stats
 <h3 align="left">GitHub Stats:</h3>
-![Amritanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrit1005&hide=contribs,prs&theme=algolia)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amrit1005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
